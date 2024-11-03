@@ -1,0 +1,11 @@
+{
+  "name": "06_playtube",
+  "version": "1.0.0",
+  "description": "This is a mega project in the continuation of learning backend development in MERN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
